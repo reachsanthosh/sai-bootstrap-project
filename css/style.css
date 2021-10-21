@@ -1,0 +1,116 @@
+
+        .navbar{
+          background-color: #808000;
+        }
+        nav .navbar-nav .nav-link{
+            color: black;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .drop-down{
+            color:white;                 
+        }
+        .table-head{
+            background-color: #808000;
+            color: white;
+        }   
+        a{
+            color: white;
+            
+        }
+        a:hover{
+
+            color: #808000 ;
+           
+        }
+        hr{
+            color:#808000 ;
+           
+        }
+       #myfooter > ul{
+            justify-content: space-around;
+        }
+        #myfooter{
+            text-shadow: 2px 4px 4px #808000;
+        }
+       ul li{
+           margin-bottom: 5px;
+           padding: 4px;
+       }
+     #package-topbutton{
+         color:white;
+         background-color:#808000;
+         font-size: 22px;
+         width: 50%;
+         margin: auto;
+         border-radius: 10px;
+         text-shadow: 2px 4px 6px #808000 ;
+     }
+     #package-bottombutton{
+         color:white;
+         background-color: black;
+         font-size: 22px;
+         width: 35%;
+         margin: auto;
+         border-radius: 10px;
+     
+         
+     }
+     p{
+         font-size: 20px;
+     }
+     #hometable  td{
+         font-size: 25px;
+     }
+     .thead{
+         background-color: #808000;
+         color: white;
+     }
+     .table{
+border: 1px solid #808000;
+     }
+     
+     .img-responsive:hover{
+        transform:translate(10px,30px);
+        width:100%;
+     }
+     .section{
+         background-color:hsl(60, 37%, 64%);
+         
+
+     } 
+     .number-img{
+         width: 100%;
+         height: 100%;
+     }
+     form .form-control-sm{
+        
+         font-size: 25px;
+         border-radius: 10px;
+         color: white;
+     }
+     form .input-group{
+        padding: 10px;
+        font-size: 25px;
+        border-radius: 10px;
+     }
+     form label{
+         font-size: 25px;
+     }
+     form span{
+         background-color: white;
+         padding: 2px;
+         margin: 2px;
+     }
+     .dropdown .btn{
+         padding: 15px;
+         font-size: 20px;
+     }
+     form{
+         box-shadow: 2px 4px 19px #808000;
+     }
+     #signup label{
+        font-size: 20px;
+        margin-bottom: 3px;
+     }
+   
